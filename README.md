@@ -1,5 +1,5 @@
 # sculptureScriptHW
-## 📌 Example Output
+## the content output of sculptureListLengths object that is created in my solution
 ```json
 [
  {
